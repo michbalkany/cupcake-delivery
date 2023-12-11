@@ -17,6 +17,7 @@ class Order: Codable {
         case _addSprinkles = "addSprinkles"
         case _name = "name"
         case _city = "city"
+        case _streetAddress = "streetAddress"
         case _zip = "zip"
     }
     
